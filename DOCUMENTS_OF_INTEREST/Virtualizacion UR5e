@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Virtualizacion UR5e
+Exec=/home/iuma_1/ur_script.sh
+Icon=/usr/share/icons/gnome/48x48/apps/utilities-terminal.png
+
+

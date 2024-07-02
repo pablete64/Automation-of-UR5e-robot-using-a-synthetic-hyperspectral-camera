@@ -1,0 +1,7 @@
+[Desktop Entry]
+
+Type=Application
+Terminal=false
+Name=UR Script Launcher
+Icon=/usr/share/icons/gnome/48x48/apps/system-run.png
+Exec=/ruta/a/tu/archivo/ur_script.sh
